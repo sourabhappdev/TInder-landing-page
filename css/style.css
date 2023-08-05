@@ -3,6 +3,9 @@
   background-size: 180% 180%;
   animation: gradient-animation 10s ease infinite;
 }
+body{
+  scroll-behavior: smooth;
+}
 
 @keyframes gradient-animation {
   0% {
